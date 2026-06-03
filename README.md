@@ -56,8 +56,4 @@ The dataset contains the following information:
 - Recommends similar anime based on similarity scores  
 - Supports threshold-based filtering  
 
----
 
-## 🔍 Example
-
-**Input:**
